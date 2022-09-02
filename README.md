@@ -1,4 +1,4 @@
-# Angular 8 - Home Rental App with UIKit
+# Angular 8 - Home Rental Angular App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
